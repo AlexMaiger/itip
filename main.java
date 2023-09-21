@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println(gallon(5));
+        System.out.println(gallon(6));
         System.out.println(gallon(3));
         System.out.println(gallon(8));
         System.out.println(fitCals(15, 1));
